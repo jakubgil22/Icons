@@ -2577,94 +2577,151 @@ ideas:
  image: INC_vetcong_star.png
  tags:
   - generated
+  - Indochina
+  - syndicalism
 
 -
  name: INC_female_vietcong
  image: INC_female_vetcong.png
  tags:
   - generated
+  - portrait
+  - Indochina
+  - population
+  - women
+  - military
+  - manpower
 
 -
  name: austria_dualism
  image: Austria_Hungary.png
  tags:
   - generated
+  - map
+  - flag
+  - AUS
+  - HUN
 
 -
  name: GER_imperial_pride
  image: GER_imperial_pride.png
  tags:
   - generated
+  - GER
+  - flag
+  - military
+  - small_arms
 
 -
  name: ME
  image: ME_Idea.png
  tags:
   - generated
+  - GER
+  - Reichspakt
+  - diplomacy
 
 -
  name: GRE_army
  image: GRE_army.png
  tags:
   - generated
+  - GRE
+  - flag
+  - military
+  - soldier
 
 -
  name: GRE_german_ownership
  image: GRE_german_ownership.png
  tags:
   - generated
+  - GER
+  - economy
+  - trade
+  - industry
+  - flag
 
 -
  name: GRE_austrian_ownership
  image: GRE_austrian_ownership.png
  tags:
   - generated
+  - AUS
+  - economy
+  - trade
+  - industry
+  - flag
 
 -
  name: GRE_german_sanctions
  image: GRE_german_sanctions.png
  tags:
   - generated
+  - GER
+  - economy
+  - trade
+  - flag
 
 -
  name: GRE_austrian_sanctions
  image: GRE_austrian_sanctions.png
  tags:
   - generated
+  - AUS
+  - economy
+  - trade
+  - flag
 
 -
  name: IRE_economy_good
  image: IRE_economy_good.png
  tags:
   - generated
+  - IRE
+  - arrow
+  - economy
 
 -
  name: IRE_economy_improving
  image: IRE_economy_improving.png
  tags:
   - generated
+  - IRE
+  - arrow
+  - economy
 
 -
  name: IRE_economy_poor
  image: IRE_economy_poor.png
  tags:
   - generated
+  - IRE
+  - arrow
+  - economy
 
 -
  name: IRE_economy_turning
  image: IRE_economy_turning.png
  tags:
   - generated
+  - IRE
+  - arrow
+  - economy
 
 -
  name: IRE_tradeflag
  image: IRE_tradeflag.png
  tags:
   - generated
+  - flag
+  - IRE
 
 -
  name: YUG_Prince_Paul
  image: Prince_Paul.png
  tags:
   - generated
+  - portrait
+  - Balkans
 
